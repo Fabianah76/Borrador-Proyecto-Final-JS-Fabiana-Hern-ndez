@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let respuestasJSON = []; // Array para guardar respuestas del JSON
   
     // Cargar datos desde respuestas.json
-    fetch('respuestas.json')
+    fetch('respuestasJSON.json')
     .then(response => {
       if (!response.ok) {
         throw new Error('No se pudo cargar el JSON');
