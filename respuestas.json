@@ -1,0 +1,87 @@
+[
+    // Respuestas para modalidad 1 - Solo virtual
+    {
+      "modTramite": "1",
+      "tiempoLectura": 1,
+      "tiempoLlenado": 1,
+      "tiempoTraslado": 0,
+      "tiempoInicio": 0,
+      "tiempoResol": 1,
+      "tarifaTramite": 0,
+      "visitasIE": 0,
+      "costoTrans": 0,
+      "VST": 1692,
+      "cargaBurocratica": 1694
+    },
+    {
+      "modTramite": "1",
+      "tiempoLectura": 1,
+      "tiempoLlenado": 1,
+      "tiempoTraslado": 0,
+      "tiempoInicio": 0,
+      "tiempoResol": 2,
+      "tarifaTramite": 0,
+      "visitasIE": 0,
+      "costoTrans": 0,
+      "VST": 3384,
+      "cargaBurocratica": 3386
+    },
+    
+    {
+      "modTramite": "2",
+      "tiempoLectura": 2,
+      "tiempoLlenado": 2,
+      "tiempoTraslado": 1,
+      "tiempoInicio": 0,
+      "tiempoResol": 3,
+      "tarifaTramite": 50,
+      "visitasIE": 1,
+      "costoTrans": 100,
+      "VST": 5076,
+      "cargaBurocratica": 5229
+    },
+    {
+      "modTramite": "2",
+      "tiempoLectura": 2,
+      "tiempoLlenado": 1,
+      "tiempoTraslado": 1,
+      "tiempoInicio": 1,
+      "tiempoResol": 2,
+      "tarifaTramite": 50,
+      "visitasIE": 1,
+      "costoTrans": 100,
+      "VST": 3384,
+      "cargaBurocratica": 3488
+    },
+   
+    
+    {
+      "modTramite": "3",
+      "tiempoLectura": 3,
+      "tiempoLlenado": 3,
+      "tiempoTraslado": 2,
+      "tiempoInicio": 1,
+      "tiempoResol": 5,
+      "tarifaTramite": 100,
+      "visitasIE": 2,
+      "costoTrans": 150,
+      "VST": 8460,
+      "cargaBurocratica": 8676
+    },
+    {
+      "modTramite": "3",
+      "tiempoLectura": 2,
+      "tiempoLlenado": 3,
+      "tiempoTraslado": 2,
+      "tiempoInicio": 1,
+      "tiempoResol": 4,
+      "tarifaTramite": 100,
+      "visitasIE": 2,
+      "costoTrans": 150,
+      "VST": 6768,
+      "cargaBurocratica": 6994
+    }
+    
+  ]
+  
+  
