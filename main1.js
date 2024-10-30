@@ -51,7 +51,7 @@ document.addEventListener("DOMContentLoaded", () => {
             tiempoTraslado: parseInt(document.getElementById('tiempoTraslado').value),
             tiempoInicio: parseInt(document.getElementById('tiempoInicio').value),
             tiempoResol: parseInt(document.getElementById('tiempoResol').value),
-            tarifaTramite: parseFloat(document.getElementById('tarifaTramite').value),
+            tarifaTramite: parseFloat(document.getElementById('tarifaTramite').value) || 0,
             visitasIE: parseInt(visitasIE.value),
             costoTrans: parseFloat(costoTrans.value),
         };
